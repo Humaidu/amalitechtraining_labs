@@ -2,7 +2,7 @@
 
 ## Task Overview
 
-0. Create a python environment using python3 -m venv <environment_name> and install
+**0. **Create a python environment using python3 -m venv <environment_name> and install
 required libraries (requests)
 
 **1. Create a Custom Directory:** Use the os module to create a directory named after your first and last name (e.g., john_doe).
